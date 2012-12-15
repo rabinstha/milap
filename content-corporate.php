@@ -21,6 +21,7 @@ RAbin shrestha
 
 <?php
 	echo "my name is rabin shrestha"; 
+	echo 'i have just entered the cloning world.'
 ?>
 
 sanjiv.
