@@ -19,7 +19,9 @@ Niroj Shrestha
 RAbin shrestha
 
 
-wordpress
+<?php
+	echo "my name is rabin shrestha"; 
+?>
 
 <?php
    /**
